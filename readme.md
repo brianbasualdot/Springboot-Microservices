@@ -1,6 +1,7 @@
-## Microservices- Springboot
+# Microservices- Springboot
 
 ![tumbail](./img/img1.png)
+## En el Students.Controller vamos a poder ver los endpoints donde podremos hacer nuestras consultas.
 ![tumbail](./img/img2.png)
 ## El gateway es nuestro servicio de entrada a la aplicacion, aqui, estan configurados las puertas o enlaces de nuestro servicio de COURSES y STUDENTS ,tambien podremos integrar nuestra capa de seguridad para evitar intrusiones en el sistema.
 ![tumbail](./img/img-gateway.png)
